@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @xtian-byte
-- 👀 I’m interested in art
-- 🌱 I’m currently learning ict
-- 💞️ I’m looking to collaborate on IT
-# 📫 How to reach me https://youtube.com/@kymjones722?si=iyN1kPL3KSea7lAz
-#😄 Pronouns: ...
-- ⚡ Fun fact: did you now am from kenya
+# 🖥️ Server Stats Script
 
-<!---
-xtian-byte/xtian-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`server-stats.sh` is a simple, portable Bash script that analyzes and displays essential server performance metrics. It’s designed to run on any Linux system and helps sysadmins, DevOps engineers, and enthusiasts quickly assess system health.
+
+---
+
+## 📊 Features
+
+- ✅ **CPU Usage** – Total used vs idle
+- ✅ **Memory Usage** – Used, free, and percentage
+- ✅ **Disk Usage** – For root (`/`) partition
+- ✅ **Top 5 Processes by CPU Usage**
+- ✅ **Top 5 Processes by Memory Usage**
+- 🔧 **Stretch Features**:
+  - OS Version
+  - Uptime
+  - Load Average
+  - Logged-in Users
+  - Failed SSH Login Attempts (last 24h)
+
+---
+
+## 🚀 Usage
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/server-stats.git
+   cd server-stats
