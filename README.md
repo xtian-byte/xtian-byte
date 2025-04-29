@@ -1,4 +1,5 @@
-https://roadmap.sh/projects/server-stats# Server Stats Script
+https://roadmap.sh/projects/server-stats 
+# Server Stats Script
 
 `server-stats.sh` is a simple, portable Bash script that analyzes and displays essential server performance metrics. It’s designed to run on any Linux system and helps sysadmins, DevOps engineers, and enthusiasts quickly assess system health.
 
